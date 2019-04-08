@@ -1,7 +1,3 @@
-/// <reference path="C:\lp\ws\Source\DCM\Release-3.8.6\Source Code\DCM.Web\Refresh.aspx" />
-/// <reference path="C:\lp\ws\Source\DCM\Release-3.8.6\Source Code\DCM.Web\Refresh.aspx" />
-/// <reference path="C:\lp\ws\Source\DCM\Release-3.8.6\Source Code\DCM.Web\Refresh.aspx" />
-/// <reference path="C:\lp\ws\Source\DCM\Release-3.8.6\Source Code\DCM.Web\Refresh.aspx" />
 /*
  * timeout-dialog.js v1.0.1, 01-03-2012
  * 
